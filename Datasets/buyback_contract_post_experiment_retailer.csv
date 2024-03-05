@@ -1,0 +1,23 @@
+PLAYER NAME,Changes in the consumer demand,Manufacturer's wholesale price,Manufacturer's buyback price,My expected profit from the decision support tool,Manufacturer's expected profit from the decision support tool,My profit in the previous period,Manufacturer's profit in the previous period,Manufacturer's profit being higher than mine,Manufacturer's profit being lower than mine,Manufacturer's loss (negative profit),My cumulative profit
+retailer1,1,3,3,3,0,0,0,0,0,0,2
+retailer2,2,3,3,2,2,0,0,2,1,0,1
+retailer3,0,3,1,2,3,0,2,0,0,2,3
+retailer4,3,2,3,2,1,0,0,0,0,0,0
+retailer5,2,3,1,3,3,2,2,3,3,3,1
+retailer6,2,2,2,3,3,1,1,3,3,2,3
+retailer7,0,3,3,1,1,0,0,1,1,0,1
+retailer8,1,3,2,2,2,0,0,2,2,0,1
+retailer9,2,3,3,1,1,1,1,1,0,1,0
+retailer10,1,2,2,3,3,2,1,3,1,0,1
+retailer11,2,3,0,2,-1,3,1,3,0,3,2
+retailer12,3,3,2,3,1,2,1,1,0,0,3
+retailer13,1,3,3,3,2,0,1,2,1,1,0
+retailer14,1,3,3,3,1,1,0,1,0,0,2
+retailer15,2,3,1,3,0,2,0,1,0,0,0
+retailer16,2,3,2,2,2,2,0,1,0,0,3
+retailer17,1,3,1,3,1,0,0,0,0,0,1
+retailer18,2,2,2,2,1,0,0,0,0,1,0
+retailer19,2,2,1,0,0,0,0,0,0,0,2
+retailer20,1,2,2,2,1,0,0,2,0,0,1
+retailer21,1,3,2,3,3,1,1,2,0,0,2
+retailer22,1,2,2,2,1,1,0,1,1,0,2

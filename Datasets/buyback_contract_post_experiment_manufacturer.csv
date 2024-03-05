@@ -1,0 +1,23 @@
+Changes in the consumer demand.,My expected profit from the decision support tool.,Retailer's expected profit from the decision support tool.,Retailer's stock quantity decision in the previous period.,My profit in the previous period.,Retailer's profit in the previous period.,Retailer's profit being higher than mine.,Retailer's profit being lower than mine.,Retailer's loss. (negative profit),Retailer's rejections of the contract by placing 0 orders.,My cumulative profit.,PLAYER NAME
+1,3,2,2,2,1,0,0,0,0,2,manufacturer1
+3,3,2,3,2,1,1,1,1,3,1,manufacturer2
+1,1,1,0,1,2,3,3,1,3,2,manufacturer3
+3,3,3,3,2,2,2,2,2,2,0,manufacturer4
+2,2,2,2,1,1,0,0,0,2,0,manufacturer5
+2,2,3,1,1,1,1,1,2,2,3,manufacturer6
+2,2,2,3,2,1,2,2,2,3,1,manufacturer7
+1,2,2,3,3,1,0,1,1,3,1,manufacturer8
+2,2,2,3,3,2,0,0,0,1,2,manufacturer9
+2,3,0,2,3,0,1,0,0,3,2,manufacturer10
+0,3,2,3,1,1,1,1,2,2,0,manufacturer11
+1,1,2,3,0,1,0,0,0,1,1,manufacturer12
+2,-1,1,1,2,0,0,0,0,3,3,manufacturer13
+2,2,1,3,2,1,1,1,3,3,2,manufacturer14
+2,3,1,1,2,1,0,0,0,3,3,manufacturer15
+1,0,0,1,0,1,0,0,2,2,0,manufacturer16
+1,2,1,2,2,0,0,0,1,2,1,manufacturer17
+1,0,1,2,1,0,0,0,1,2,0,manufacturer18
+1,1,2,3,2,2,0,1,2,2,1,manufacturer19
+2,2,1,3,3,1,0,0,0,3,0,manufacturer20
+1,2,0,0,2,0,0,2,0,3,3,manufacturer21
+1,1,1,2,2,1,0,0,1,3,2,manufacturer22
