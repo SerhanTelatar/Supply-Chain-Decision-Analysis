@@ -6,7 +6,7 @@ This repository contains datasets and code to analyze decision-making processes 
 
 * Can Ceylan
 * Ahmet Serdar Demircan
-* Serhan Telatar
+* Serhan Emre Telatar
 
 ## Project Overview
 
